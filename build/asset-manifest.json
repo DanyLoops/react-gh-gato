@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DanyLoops.github.io/react-gh-gato/build/static/css/main.60e2fe88.css",
+    "main.js": "/DanyLoops.github.io/react-gh-gato/build/static/js/main.16407791.js",
+    "static/js/453.2aa8f922.chunk.js": "/DanyLoops.github.io/react-gh-gato/build/static/js/453.2aa8f922.chunk.js",
+    "static/media/game-over.wav": "/DanyLoops.github.io/react-gh-gato/build/static/media/game-over.cf4d5cf73cb9c824232b.wav",
+    "static/media/click.wav": "/DanyLoops.github.io/react-gh-gato/build/static/media/click.ec585eb43bdbaca53d0e.wav",
+    "index.html": "/DanyLoops.github.io/react-gh-gato/build/index.html",
+    "main.60e2fe88.css.map": "/DanyLoops.github.io/react-gh-gato/build/static/css/main.60e2fe88.css.map",
+    "main.16407791.js.map": "/DanyLoops.github.io/react-gh-gato/build/static/js/main.16407791.js.map",
+    "453.2aa8f922.chunk.js.map": "/DanyLoops.github.io/react-gh-gato/build/static/js/453.2aa8f922.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e2fe88.css",
+    "static/js/main.16407791.js"
+  ]
+}
